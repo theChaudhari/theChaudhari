@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Abhishek Chaudhari
-- 👀 I’m interested in  Java, Microservices, Spring-Boot, Kafka & Docker
-- 🌱 I’m currently learning Spring Security
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.linkedin.com/in/thechaudhari
-- 😄 Pronouns: Abhi.
+👋 Hey, I’m Abhishek Chaudhari
+⚡ Java Backend Engineer building scalable microservices
+🧠 Exploring AI with LangChain4j + Spring Boot
+🔥 Kafka | Event-Driven Systems | Clean Architecture
+🚀 Turning backend systems into intelligent systems
+📫 www.linkedin.com/in/thechaudhari
